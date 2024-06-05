@@ -1,6 +1,6 @@
 
 # The PixelReader Lab Collection
-Welcome to the Benchmarking Lab Collection! This repository is a data structures project that I've worked on during my freshman year at the Milwaukee School of Engineering!
+Welcome to the PixelReader Lab Collection! This repository is a data structures project that I've worked on during my freshman year at the Milwaukee School of Engineering!
 
 ## Lab 1 | Mean Image Median
 Worked on creating a program that will read images in the PPM format and produce an image that contains the median and average of the input images. The program is designed to accept a operation of mean or median and then output a filename after inputting two or more image files. 
