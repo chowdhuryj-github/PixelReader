@@ -26,7 +26,7 @@ Added the following updates to the graphical user interface:
 * Button to save the generated image
 
 ## Lab 5 | A Functional Programming Approach
-Updated the program to read and write images in a cusom binary format. Updated the methods to use a functional programming approach. Added the following extra functionality:
+Updated the program to read and write images in a custom binary format. Updated the methods to use a functional programming approach. Added the following extra functionality:
 * ```Max``` — produces an output image where the pixel components for the output image are selected as the maximum value from the input images.
 * ```Min``` — produces an output image where the pixel components for the output image are selected as the minimum value from the input images.
 * ```Random``` — produces an output image where the pixel components for the output image are selected at random from the input images.
