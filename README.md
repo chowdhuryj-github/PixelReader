@@ -1,4 +1,7 @@
 
+![Bucks](assets/banners.gif)
+
+
 # The PixelReader Lab Collection
 Welcome to the PixelReader Lab Collection! This repository is a data structures project that I've worked on during my freshman year at the Milwaukee School of Engineering!
 
